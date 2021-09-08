@@ -1,0 +1,6 @@
+x= str(input("Enter the String : "))
+print("String is ",x)
+y = float(x)
+print("Float is ",y)
+z = int(y)
+print("Int is ",z)
