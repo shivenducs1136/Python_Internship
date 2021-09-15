@@ -6,4 +6,4 @@ password = ""
 for i in range(0,pass_len):
     random_char = random.choice(qqq)
     password = password + random_char
-print("Randomly Generated Password is : ", password)
+print("Your Unique Password is : ", password)
